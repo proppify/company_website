@@ -1,0 +1,25 @@
+HTTrack3.49-2 launched on Sun, 14 May 2023 20:42:28 at https://webextheme.com/html/ziptech/v2/home3.html
+(winhttrack https://webextheme.com/html/ziptech/v2/home3.html -O "/Users/priyapackrisamy/Sites/proppify" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:45:38	Error: 	"Not Found" (404) at link https://webextheme.com/html/ziptech/v2/page-team.html (from https://webextheme.com/html/ziptech/v2/home3.html)
+20:45:42	Error: 	"Not Found" (404) at link https://webextheme.com/html/ziptech/v2/page-services-style1.html (from https://webextheme.com/html/ziptech/v2/home3.html)
+20:46:00	Error: 	"Not Found" (404) at link https://webextheme.com/html/ziptech/v2/page-about-us.html (from https://webextheme.com/html/ziptech/v2/home3.html)
+20:46:00	Error: 	"Not Found" (404) at link https://webextheme.com/html/ziptech/v2/index-2.html (from https://webextheme.com/html/ziptech/v2/home3.html)
+20:46:27	Error: 	"Not Found" (404) at link https://webextheme.com/html/ziptech/v2/images/bg/bg1.jpg (from https://webextheme.com/html/ziptech/v2/css/style.css)
+20:46:27	Error: 	"Not Found" (404) at link https://webextheme.com/html/ziptech/v2/images/bg/bg2.jpg (from https://webextheme.com/html/ziptech/v2/css/style.css)
+20:46:27	Error: 	"Not Found" (404) at link https://webextheme.com/html/ziptech/v2/images/bg/bg3.jpg (from https://webextheme.com/html/ziptech/v2/css/style.css)
+20:46:27	Error: 	"Not Found" (404) at link https://webextheme.com/html/ziptech/v2/images/objects/brush-obj1.png (from https://webextheme.com/html/ziptech/v2/css/style.css)
+20:46:27	Error: 	"Not Found" (404) at link https://webextheme.com/html/ziptech/v2/images/bg/banner1.jpg (from https://webextheme.com/html/ziptech/v2/css/style.css)
+20:46:27	Error: 	"Not Found" (404) at link https://webextheme.com/html/ziptech/v2/images/service/1.png (from https://webextheme.com/html/ziptech/v2/css/style.css)
+20:46:27	Error: 	"Not Found" (404) at link https://webextheme.com/html/ziptech/v2/images/bg/contact-form-bg.png (from https://webextheme.com/html/ziptech/v2/css/style.css)
+20:46:27	Error: 	"Not Found" (404) at link https://webextheme.com/html/ziptech/v2/project-details.html (from https://webextheme.com/html/ziptech/v2/home4.html)
+20:46:27	Error: 	"Not Found" (404) at link https://webextheme.com/html/ziptech/v2/page-single-news.html (from https://webextheme.com/html/ziptech/v2/page-news-left-sidebar.html)
+20:46:27	Error: 	"Not Found" (404) at link https://webextheme.com/html/ziptech/v2/css/owl.video.play.png (from https://webextheme.com/html/ziptech/v2/css/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 59 seconds : 237 links scanned, 222 files written (14570648 bytes overall) [10063456 bytes received at 42106 bytes/sec], 6475089 bytes transferred using HTTP compression in 93 files, ratio 28%, 9.1 requests per connection
+(14 errors, 0 warnings, 0 messages)
